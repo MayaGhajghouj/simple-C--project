@@ -1,0 +1,12 @@
+c:\users\scc\documents\visual studio 2015\Projects\HW\HW\bin\Debug\HW.exe.config
+c:\users\scc\documents\visual studio 2015\Projects\HW\HW\obj\Debug\HW.csprojResolveAssemblyReference.cache
+c:\users\scc\documents\visual studio 2015\Projects\HW\HW\bin\Debug\HW.exe
+c:\users\scc\documents\visual studio 2015\Projects\HW\HW\bin\Debug\HW.pdb
+c:\users\scc\documents\visual studio 2015\Projects\HW\HW\obj\Debug\HW.exe
+c:\users\scc\documents\visual studio 2015\Projects\HW\HW\obj\Debug\HW.pdb
+C:\Users\asus\Documents\Visual Studio 2019\Code Snippets\Visual C#\HW\HW\HW\bin\Debug\HW.exe.config
+C:\Users\asus\Documents\Visual Studio 2019\Code Snippets\Visual C#\HW\HW\HW\bin\Debug\HW.exe
+C:\Users\asus\Documents\Visual Studio 2019\Code Snippets\Visual C#\HW\HW\HW\bin\Debug\HW.pdb
+C:\Users\asus\Documents\Visual Studio 2019\Code Snippets\Visual C#\HW\HW\HW\obj\Debug\HW.csprojAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2019\Code Snippets\Visual C#\HW\HW\HW\obj\Debug\HW.exe
+C:\Users\asus\Documents\Visual Studio 2019\Code Snippets\Visual C#\HW\HW\HW\obj\Debug\HW.pdb
